@@ -1,3 +1,5 @@
+-- Trabalho de Mateus Miranda e Pedro Lucas
+
 -- 1. Listar todos os dados da tabela Pessoa
 SELECT *
   FROM agendamento_consulta.Pessoa;
